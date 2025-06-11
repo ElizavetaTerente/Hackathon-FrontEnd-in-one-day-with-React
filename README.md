@@ -8,3 +8,12 @@ _How to run the app:_
 2) Start the frontend with the command: __npm start__
 
 The frontend displays training data and their related statistics:
+
+![vid](https://github.com/user-attachments/assets/79f95809-d0e3-4427-afea-8cc444b17b3b)
+
+![homeFuull](https://github.com/user-attachments/assets/8d9e95bf-d0fa-47aa-b3d5-ea5ee800443d)
+
+![statsFull](https://github.com/user-attachments/assets/74f33de5-e7fa-42c3-b135-a547f5e95070)
+
+
+
