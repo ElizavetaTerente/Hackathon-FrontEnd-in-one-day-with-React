@@ -1,4 +1,4 @@
-# Frontend in One Day with React (Hackathon)
+# Frontend in One Day with React (Hackathon) 
 
 This project was created during a hackathon, where each participant was assigned a frontend framework they had not worked with before, along with a set of APIs providing data for visualization.
 
